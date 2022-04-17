@@ -11,7 +11,7 @@
 - 🔭 **I’m currently working on:** building code infrastructure, web3 development,
 - 🌱 **I’m currently learning:** web3 development, french, css, next.js
 - 👯 **I’m looking to collaborate on:** web3 projects
-- 💬 **Ask me about:** language learning, start up founding, kubernetes, microservices, golang
+- 💬 **Ask me about:** language learning, kubernetes, microservices, golang
 - ⚡ **Hobbies:** art, film, music, building things, traveling
 - 😄 **Pronouns:** she/her
 
