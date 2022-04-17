@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="left"> Hey, I'm Rasha 👋 </h1>
 <p align="left">
    <a href="https://www.linkedin.com/in/rasha-hantash/"><img alt="LinkedIn" src="https://img.shields.io/badge/-rasha--hantash-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasha-hantash/"></a>
