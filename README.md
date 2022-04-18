@@ -1,11 +1,11 @@
 <h1 align="left"> Hey, I'm Rasha 👋 </h1>
 <p align="left">
    <a href="https://www.linkedin.com/in/rasha-hantash/"><img alt="LinkedIn" src="https://img.shields.io/badge/-rasha--hantash-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasha-hantash/"></a>
-   <a href="https://twitter.com/rasha_hantash"><img alt="Twitter" src="https://img.shields.io/badge/-@rasha_hantash-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jonaylor89"></a>
+   <a href="https://twitter.com/rasha_hantash"><img alt="Twitter" src="https://img.shields.io/badge/-@rasha_hantash-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rasha_hantash"></a>
    <a href="mailto:rasha.hantash@pm.me"><img alt="ProtonMail" src="https://img.shields.io/badge/-rasha.hantash@pm.me-black?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:rasha.hantash@pm.me"></a>
 </p>
 
-<h3 align="left">  I'm Rasha Hantash, a software developer and start up founder who likes to build cool things.  </h3>
+<h3 align="left">  I'm Rasha Hantash, a software developer who likes to build cool things.  </h3>
 
 ---
 - 🔭 **I’m currently working on:** building code infrastructure, web3 development,
