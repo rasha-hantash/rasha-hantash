@@ -9,10 +9,10 @@
 
 ---
 - 🔭 **I’m currently working on:** building code infrastructure, web3 development,
-- 🌱 **I’m currently learning:** web3 development, french, css, next.js
-- 👯 **I’m looking to collaborate on:** web3 projects
+- 🌱 **I’m currently learning:** web3 development, french, next.js
+- 👯 **I’m looking to collaborate on:** web3 projects, founding a startup
 - 💬 **Ask me about:** language learning, kubernetes, microservices, golang
-- ⚡ **Hobbies:** art, film, music, building things, traveling
+- ⚡ **Hobbies:** art, film, music, building things from scratch, traveling
 - 😄 **Pronouns:** she/her
 
 
