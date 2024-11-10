@@ -5,13 +5,13 @@
    <a href="mailto:rasha.hantash@pm.me"><img alt="ProtonMail" src="https://img.shields.io/badge/-rasha.hantash@pm.me-black?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:rasha.hantash@pm.me"></a>
 </p>
 
-<h3 align="left">  I'm Rasha Hantash, a software developer who likes to build cool things.  </h3>
+<h3 align="left">  I'm Rasha Hantash, an ex-founder & software developer who likes to build cool things.  </h3>
 
 ---
-- 🔭 **I’m currently working on:** building code infrastructure, web3 development,
-- 🌱 **I’m currently learning:** web3 development, french, next.js
-- 👯 **I’m looking to collaborate on:** web3 projects, founding a startup
-- 💬 **Ask me about:** language learning, kubernetes, microservices, golang
+- 🔭 **I’m currently working on:** building building an algo-trader
+- 🌱 **I’m currently learning:** web3 development, french, apache airflow
+- 👯 **I’m looking to collaborate on:** side-projects that aim to help unite humanity
+- 💬 **Ask me about:** language learning, service-oriented architecture, fundraising
 - ⚡ **Hobbies:** art, film, music, building things from scratch, traveling
 - 😄 **Pronouns:** she/her
 
